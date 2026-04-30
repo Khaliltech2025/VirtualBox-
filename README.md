@@ -3,7 +3,7 @@
 
 
 <h1>VirtualBox Prerequisites and Installation</h1>
-This tutorial demonstrates how to install and configure VirtualBox as well as displaying the capabilites of virtualization. <br/>
+This tutorial demonstrates how to install and configure VirtualBox as well as displaying the capabilities of virtualization. <br/>
 
 <h2>Environments and Technologies Used</h2>
 
